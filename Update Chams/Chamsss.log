@@ -1,0 +1,4 @@
+﻿  Chamsss.cpp
+D:\proyectos visual studio\Chamsss\Chamsss.cpp(40,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\proyectos visual studio\Chamsss\Chamsss.cpp(29): warning C4715: 'GetModule': not all control paths return a value
+  Chamsss.vcxproj -> D:\proyectos visual studio\Chamsss\Debug\Chamsss.exe
