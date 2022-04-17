@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Legit", "Legit.csproj", "{3C270F98-7479-4EF3-AA03-6A1BE50C9DCD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LegitSetup", "..\LegitSetup\LegitSetup.vdproj", "{D7B56EBD-9D4F-4A7C-BE7F-60D2C68D393F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C270F98-7479-4EF3-AA03-6A1BE50C9DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C270F98-7479-4EF3-AA03-6A1BE50C9DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C270F98-7479-4EF3-AA03-6A1BE50C9DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C270F98-7479-4EF3-AA03-6A1BE50C9DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7B56EBD-9D4F-4A7C-BE7F-60D2C68D393F}.Debug|Any CPU.ActiveCfg = Debug
+		{D7B56EBD-9D4F-4A7C-BE7F-60D2C68D393F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C83A8FA7-42B8-4F6E-BACB-892ADD76797D}
+	EndGlobalSection
+EndGlobal
